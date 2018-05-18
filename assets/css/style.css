@@ -1,0 +1,13 @@
+body {
+    background-color: lemonchiffon;
+    color:deeppink;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: turquoise;
+    font-weight: bold;
+    padding: 50px
+}
